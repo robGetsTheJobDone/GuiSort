@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
-    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/sortman/Sorter.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>17</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/home/goov/NetBeansProjects/SortMan/src/sortman/Number.java</file>
+            <file>file:/home/goov/NetBeansProjects/SortMan/src/sortman/Graphics/MainGraph1.java</file>
             <file>file:/home/goov/NetBeansProjects/SortMan/src/sortman/Sorter.java</file>
-            <file>file:/home/goov/NetBeansProjects/SortMan/src/sortman/Graphics/MainGraph.java</file>
             <file>file:/home/goov/NetBeansProjects/SortMan/src/sortman/PaintOut.java</file>
-            <file>file:/home/goov/NetBeansProjects/SortMan/src/sortman/SortMan.java</file>
+            <file>file:/home/goov/NetBeansProjects/SortMan/src/sortman/Graphics/Ja.java</file>
         </group>
     </open-files>
 </project-private>

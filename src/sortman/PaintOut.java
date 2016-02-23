@@ -49,7 +49,7 @@ public PaintOut(MainGraph1 t){
  GR.fill(x1);
   GR.fill(x2);
  
- Thread.sleep(50);
+ Thread.sleep(5);
  GR.setColor(Color.WHITE);
   
  GR.fill(x1);

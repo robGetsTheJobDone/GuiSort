@@ -32,7 +32,6 @@ package sortman.Graphics;
          f.update(g.getGraphics());
             g.Sort.AddMe();
         g.Sort.shellsort();
-        
-      
+       System.out.println(g.Sort.NotSorted());     
      }
   }

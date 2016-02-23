@@ -58,7 +58,7 @@ public  class MainGraph1 extends JPanel {
          Sort = new Sorter(this,PaintMan);
         Sort.Create(60);
       
-        NumberOfItems = 40; 
+        NumberOfItems = 60; 
         UpperLimit = 10*2;
         Xspacer = 2; 
         PaintMan.inti(this,Sort.Numbers);
